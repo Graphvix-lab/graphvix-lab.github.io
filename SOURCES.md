@@ -74,3 +74,13 @@ ContextSeg and VQ-SGen remain in the complete publication archive; they are not 
 ## Alumni — 2026-09-25
 
 The 12 alumni records, dates, destinations and three provided personal links were transcribed from the Former Group Members and Alumni section of https://enigma-li.github.io/. Records are grouped as Postdoc/PhD, MScR/MSc and undergraduate. Destinations describe the historical next step, rather than independently verified current employment. Jing Xu has no published destination, so none is displayed. Shuyuan Zhang is listed both for an earlier undergraduate placement and as a current PhD student on the source page; the historical row is explicitly annotated. No alumni portraits were added.
+
+## PhD programmes and funding — 2026-09-25
+
+The five routes in Join us follow the recruitment list on Changjian Li’s homepage. Links point to programme or funding pages rather than a dated call; application status and deadlines are maintained by each programme. AI4BIO is displayed under the current official name, AI4BI.
+
+- CDT-D2AIR: https://www.cdt-d2air.uk/
+- CDT in Machine Learning Systems: https://informatics.ed.ac.uk/cdt-in-machine-learning-systems
+- CDT in Biomedical Innovation (AI4BI): https://ai4bi-cdt.ed.ac.uk/
+- ELLIS PhD Program: https://ellis.eu/research/phd-postdoc
+- Informatics Graduate School Scholarships: https://informatics.ed.ac.uk/study-with-us/our-degrees/postgraduate-research-programmes-and-centres-doctoral-training/postgraduate-research-funding-opportunities-0

@@ -365,5 +365,32 @@
         }
       ]
     }
+  ],
+  "phd_programmes": [
+    {
+      "name": "CDT-D2AIR",
+      "description": "Dependable and deployable AI for robotics.",
+      "url": "https://www.cdt-d2air.uk/"
+    },
+    {
+      "name": "CDT in Machine Learning Systems",
+      "description": "Machine learning methods and the systems that enable them.",
+      "url": "https://informatics.ed.ac.uk/cdt-in-machine-learning-systems"
+    },
+    {
+      "name": "CDT in Biomedical Innovation (AI4BI)",
+      "description": "Artificial intelligence for biomedical research and innovation.",
+      "url": "https://ai4bi-cdt.ed.ac.uk/"
+    },
+    {
+      "name": "ELLIS PhD Program",
+      "description": "European research network with joint supervision and international exchanges.",
+      "url": "https://ellis.eu/research/phd-postdoc"
+    },
+    {
+      "name": "Informatics Graduate School Scholarships",
+      "description": "School and University funding for institute-led PhD study.",
+      "url": "https://informatics.ed.ac.uk/study-with-us/our-degrees/postgraduate-research-programmes-and-centres-doctoral-training/postgraduate-research-funding-opportunities-0"
+    }
   ]
 }
