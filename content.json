@@ -1,0 +1,369 @@
+{
+  "group": "GraphViX Lab",
+  "tagline": "Graphics, Vision and X",
+  "email": "Changjian.li@ed.ac.uk",
+  "intro": "We study how computers understand, create and interact with the visual world. Our research connects computer graphics and vision, from sketch-based modeling and editable CAD to 3D animation and generative video.",
+  "projects": [
+    {
+      "name": "Sketch2Arti",
+      "title": "Sketch-based Articulation Modeling of CAD Objects",
+      "authors": "Yi Yang, Hao Pan, Yijing Cui, Alla Sheffer, Changjian Li",
+      "year": 2026,
+      "venue": "SIGGRAPH",
+      "topic": "Interactive 3D Design",
+      "image": "sketch2arti.gif",
+      "url": "https://arlo-yang.github.io/Sketch2Arti/",
+      "description": "Bring CAD objects to life through simple motion sketches."
+    },
+    {
+      "name": "B-repLer",
+      "title": "Language-guided Editing of CAD Models",
+      "authors": "Yilin Liu, Niladri Shekhar Dutt, Changjian Li, Niloy J. Mitra",
+      "year": 2026,
+      "venue": "SIGGRAPH",
+      "topic": "Interactive 3D Design",
+      "image": "brepler.png",
+      "url": "https://yilinliu77.github.io/brepler.github.io/",
+      "description": "Edit CAD geometry with natural language."
+    },
+    {
+      "name": "DancingBox",
+      "title": "A Lightweight MoCap System for Character Animation from Physical Proxies",
+      "authors": "Haocheng Yuan, Adrien Bousseau, Hao Pan, Lei Zhong, Changjian Li",
+      "year": 2026,
+      "venue": "CHI",
+      "topic": "Controllable Animation",
+      "image": "dancingbox.gif",
+      "url": "https://yyyyyhc.github.io/DancingBox-project-page/",
+      "description": "Animate digital characters by moving physical proxies.",
+      "award": "Best Paper Honorable Mention"
+    },
+    {
+      "name": "Sketch2Anim",
+      "title": "Towards Transferring Sketch Storyboards into 3D Animation",
+      "authors": "Lei Zhong, Chuan Guo, Yiming Xie, Jiawei Wang, Changjian Li",
+      "year": 2025,
+      "venue": "SIGGRAPH",
+      "topic": "Controllable Animation",
+      "image": "sketch2anim.gif",
+      "url": "https://zhongleilz.github.io/Sketch2Anim/",
+      "description": "Turn a sequence of sketches into expressive 3D motion.",
+      "award": "Technical Paper Highlight"
+    },
+    {
+      "name": "PCDreamer",
+      "title": "Point Cloud Completion Through Multi-view Diffusion Priors",
+      "authors": "Guangshun Wei, Yuan Feng, Long Ma, Chen Wang, Yuanfeng Zhou, Changjian Li",
+      "year": 2025,
+      "venue": "CVPR",
+      "topic": "3D Reconstruction & Understanding",
+      "image": "pcdreamer.png",
+      "url": "https://gsw-d.github.io/PCDreamer/",
+      "description": "Recover complete 3D shapes from partial observations."
+    },
+    {
+      "name": "PoseTraj",
+      "title": "Pose-Aware Trajectory Control in Video Diffusion",
+      "authors": "Longbin Ji, Lei Zhong, Pengfei Wei, Changjian Li",
+      "year": 2025,
+      "venue": "CVPR",
+      "topic": "Controllable Animation",
+      "image": "posetraj.gif",
+      "url": "https://robingg1.github.io/Pose-Traj/",
+      "description": "Guide generated video with pose-aware motion trajectories."
+    },
+    {
+      "name": "Free2CAD",
+      "title": "Parsing Freehand Drawings into CAD Commands",
+      "authors": "Changjian Li, Hao Pan, Adrien Bousseau, Niloy Mitra",
+      "year": 2022,
+      "venue": "SIGGRAPH",
+      "topic": "Interactive 3D Design",
+      "image": "publications/d3036684a4cafe6c.png",
+      "url": "http://geometry.cs.ucl.ac.uk/projects/2022/free2cad/",
+      "description": "Parse freehand drawings into structured CAD commands.",
+      "award": "Best Paper Honorable Mention"
+    },
+    {
+      "name": "CrossSDF",
+      "title": "3D Reconstruction of Thin Structures From Cross-Sections",
+      "authors": "Thomas Walker*, Salvatore Esposito*, Daniel Rebain, Amir Vaxman, Arno Onken, Changjian Li, Oisin Mac Aodha",
+      "year": 2025,
+      "venue": "CVPR",
+      "topic": "3D Reconstruction & Understanding",
+      "image": "publications/132fd6d17ca57f0b.png",
+      "url": "https://iamsalvatore.io/cross_sdf/",
+      "description": "Reconstruct thin 3D structures from cross-sectional observations."
+    },
+    {
+      "name": "Looking 3D",
+      "title": "Anomaly Detection with 2D-3D Alignment",
+      "authors": "Ankan Bhunia, Changjian Li, Hakan Bilen",
+      "year": 2024,
+      "venue": "CVPR",
+      "topic": "3D Reconstruction & Understanding",
+      "image": "publications/3ce757f6f604493e.png",
+      "url": "https://groups.inf.ed.ac.uk/vico/research/Looking3D/",
+      "description": "Detect anomalies by aligning 2D observations with 3D shape."
+    }
+  ],
+  "people": [
+    {
+      "name": "Changjian Li",
+      "role": "Lab lead · Assistant Professor",
+      "image": "changjian.jpg",
+      "url": "https://enigma-li.github.io/"
+    },
+    {
+      "name": "Haocheng Yuan",
+      "role": "PhD student",
+      "image": "haocheng.jpg",
+      "url": "https://yyyyyhc.github.io/"
+    },
+    {
+      "name": "Ankan Bhunia",
+      "role": "PhD student · Co-supervised with Hakan Bilen",
+      "image": "ankan.jpeg",
+      "url": "https://ankanbhunia.github.io/"
+    },
+    {
+      "name": "Lei Zhong",
+      "role": "PhD student · Google PhD Fellow 2025",
+      "image": "lei.png",
+      "url": "https://zhongleilz.github.io/"
+    },
+    {
+      "name": "Yi Yang",
+      "role": "PhD student",
+      "image": "yi.jpg",
+      "url": "https://arlo-yang.github.io/"
+    },
+    {
+      "name": "Shuyuan Zhang",
+      "role": "PhD student · CDT-D2AIR",
+      "image": "shuyuan.jpg",
+      "url": "https://sanbingyouyong.github.io/"
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-08-05",
+      "label": "Aug 2026",
+      "text": "New work accepted to Pacific Graphics / Computer Graphics Forum.",
+      "url": "https://enigma-li.github.io/#news"
+    },
+    {
+      "date": "2026-03-09",
+      "label": "Mar 2026",
+      "text": "DancingBox receives a Best Paper Honorable Mention at CHI 2026.",
+      "url": "https://yyyyyhc.github.io/DancingBox-project-page/"
+    },
+    {
+      "date": "2026-02-27",
+      "label": "Feb 2026",
+      "text": "Sketch2Arti and B-repLer accepted to SIGGRAPH 2026.",
+      "url": "publications.html"
+    }
+  ],
+  "home": {
+    "intro": "We are a computer graphics and vision lab in the School of Informatics at the University of Edinburgh. We develop intuitive ways to understand, create and animate the 3D world.",
+    "featured": [
+      {
+        "project": "Sketch2Arti",
+        "video": "media/sketch2arti.mp4",
+        "caption": "Intuitive tools for creating and editing CAD models.",
+        "research_area": "cad-modeling"
+      },
+      {
+        "project": "Sketch2Anim",
+        "video": "media/sketch2anim.mp4",
+        "caption": "Turning creative intent into expressive motion.",
+        "research_area": "motion-interaction"
+      }
+    ]
+  },
+  "research": [
+    {
+      "id": "cad-modeling",
+      "title": "Interactive CAD Modeling",
+      "description": "From freehand input to editable CAD: creating, understanding and modifying structured models.",
+      "featured": [
+        {
+          "name": "Sketch2Arti",
+          "description": "Bring CAD objects to life through simple motion sketches."
+        },
+        {
+          "name": "B-repLer",
+          "description": "Edit CAD geometry with natural language."
+        },
+        {
+          "name": "DiffCSG",
+          "description": "Optimize constructive solid geometry through differentiable rasterization."
+        },
+        {
+          "name": "CADTalk",
+          "description": "Add semantic comments to CAD programs."
+        },
+        {
+          "name": "Free2CAD",
+          "description": "Turn freehand drawings into structured CAD commands."
+        },
+        {
+          "name": "Sketch2CAD",
+          "description": "Build CAD models by sketching in context."
+        }
+      ],
+      "short_title": "Interactive CAD Modeling",
+      "question": "How can we make structured CAD models easier to create and edit?",
+      "legacy_ids": [
+        "shape-design"
+      ]
+    },
+    {
+      "id": "sketch-modeling",
+      "title": "Sketch-based Shape Modeling",
+      "description": "From drawn curves to freeform surfaces: intuitive ways to express and build 3D shape.",
+      "featured": [
+        {
+          "name": "Flow-Guided Surface Modeling",
+          "description": "Predict freeform surfaces from sketches with flow-guided modeling."
+        },
+        {
+          "name": "BendSketch",
+          "description": "Model freeform surfaces through 2D sketches."
+        },
+        {
+          "name": "Flow Aligned Surfacing",
+          "description": "Build flow-aligned surfaces from networks of curves."
+        }
+      ],
+      "short_title": "Sketch-based Modeling",
+      "question": "How can sketches and curves become expressive 3D shapes?"
+    },
+    {
+      "id": "motion-interaction",
+      "title": "Controllable Animation",
+      "short_title": "Animation",
+      "question": "How can we turn human intent into controllable motion?",
+      "description": "We turn storyboards and physical interaction into expressive animation, and develop representations for controllable motion.",
+      "featured": [
+        {
+          "name": "DancingBox",
+          "description": "Animate digital characters by moving physical proxies."
+        },
+        {
+          "name": "CanFields",
+          "description": "Interpolate deforming shapes with a continuous representation."
+        },
+        {
+          "name": "Sketch2Anim",
+          "description": "Turn sketch storyboards into expressive 3D animation."
+        }
+      ]
+    },
+    {
+      "id": "3d-understanding",
+      "title": "3D Reconstruction & Understanding",
+      "short_title": "3D Understanding",
+      "question": "How can we recover geometry and understand its structure?",
+      "description": "We recover 3D geometry from incomplete observations and understand the structure and appearance of objects.",
+      "featured": [
+        {
+          "name": "PCDreamer",
+          "description": "Recover complete 3D shapes from partial point clouds."
+        },
+        {
+          "name": "CrossSDF",
+          "description": "Reconstruct thin 3D structures from cross-sections."
+        },
+        {
+          "name": "Looking 3D",
+          "description": "Detect anomalies by aligning 2D images with 3D geometry."
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "title": "Postdoctoral & doctoral researchers",
+      "members": [
+        {
+          "name": "Duolikun Danier",
+          "period": "Jun 2024 – Dec 2025",
+          "destination": "Senior Machine Learning Engineer · Sony PlayStation",
+          "url": "https://danier97.github.io/",
+          "role": "Postdoc"
+        },
+        {
+          "name": "Salvatore Esposito",
+          "period": "Aug 2023 – May 2025",
+          "destination": "Postdoc · University of Edinburgh",
+          "url": "https://iamsalvatore.io/",
+          "role": "PhD"
+        },
+        {
+          "name": "Guangshun Wei",
+          "period": "Apr 2021 – Nov 2024",
+          "destination": "Associate Researcher · Shandong University",
+          "url": "https://gsw-d.github.io/",
+          "role": "PhD & Postdoc"
+        }
+      ]
+    },
+    {
+      "title": "MScR & MSc students",
+      "members": [
+        {
+          "name": "Kuankuan Cheng",
+          "period": "Feb 2025 – May 2026",
+          "destination": "PhD · TU Wien"
+        },
+        {
+          "name": "Xingyu Han",
+          "period": "Apr 2025 – Feb 2026",
+          "destination": "PhD · University of Texas at Dallas"
+        },
+        {
+          "name": "Mingjun Yang",
+          "period": "Sep 2023 – Aug 2024",
+          "destination": "PhD · University of Melbourne"
+        },
+        {
+          "name": "Longbin Ji",
+          "period": "Apr 2024 – Sep 2024",
+          "destination": "Engineer · Baidu"
+        },
+        {
+          "name": "Prakash Nair",
+          "period": "Apr 2024 – Sep 2024",
+          "destination": "Researcher · Canon Medical Research Europe"
+        }
+      ]
+    },
+    {
+      "title": "Undergraduate students",
+      "members": [
+        {
+          "name": "Rongman Xu",
+          "period": "Jun 2025 – May 2026",
+          "destination": "University of Edinburgh"
+        },
+        {
+          "name": "Jiawei Wang",
+          "period": "May 2023 – Nov 2025",
+          "destination": "PhD · University of Hong Kong"
+        },
+        {
+          "name": "Shuyuan Zhang",
+          "period": "Jun 2023 – May 2024",
+          "destination": "MSc · Imperial College London",
+          "note": "Now a PhD student in the lab."
+        },
+        {
+          "name": "Jing Xu",
+          "period": "Sep 2023 – Dec 2023"
+        }
+      ]
+    }
+  ]
+}

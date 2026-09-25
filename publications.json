@@ -1,0 +1,1156 @@
+[
+  {
+    "title": "A Study of the Design Space of Motion and Disocclusion Control in Video Generation",
+    "authors": "Anran Qi, Changjian Li, Adrien Bousseau, Niloy Mitra",
+    "venue": "Pacific Graphics (PG) 2026, Computer Graphics Forum (CGF).",
+    "year": 2026,
+    "image_source": "https://enigma-li.github.io/projects/beyondVisible/jackinbox.gif",
+    "links": [],
+    "image": "assets/publications/98283c76f5dc9af0.gif",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "motion-interaction",
+      "group": "",
+      "name": "Motion & Disocclusion Control",
+      "venue": "Pacific Graphics"
+    }
+  },
+  {
+    "title": "Sketch2Arti: Sketch-based Articulation Modeling of CAD Objects",
+    "authors": "Yi Yang, Hao Pan, Yijing Cui, Alla Sheffer, Changjian Li",
+    "venue": "ACM Transaction on Graphics, 45(4), 2026, proceedings of SIGGRAPH 2026.",
+    "year": 2026,
+    "image_source": "https://enigma-li.github.io/projects/sketch2Arti/Sketch2Arti_icon.gif",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://arlo-yang.github.io/Sketch2Arti/"
+      },
+      {
+        "label": "Paper",
+        "url": "http://arxiv.org/abs/2604.25781"
+      }
+    ],
+    "image": "assets/sketch2arti.gif",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "cad-modeling",
+      "group": "cad",
+      "name": "Sketch2Arti",
+      "venue": "SIGGRAPH"
+    }
+  },
+  {
+    "title": "B-repLer: Language-guided Editing of CAD Models",
+    "authors": "Yilin Liu, Niladri Shekhar Dutt, Changjian Li, Niloy J. Mitra",
+    "venue": "ACM Transactions on Graphics (SIGGRAPH Conference Proceedings)- 2026.",
+    "year": 2026,
+    "image_source": "https://enigma-li.github.io/projects/BrepLer/icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://yilinliu77.github.io/brepler.github.io/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2508.10201"
+      }
+    ],
+    "image": "assets/brepler.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "cad-modeling",
+      "group": "cad",
+      "name": "B-repLer",
+      "venue": "SIGGRAPH"
+    }
+  },
+  {
+    "title": "DancingBox: A Lightweight MoCap System for Character Animation from Physical Proxies",
+    "authors": "Haocheng Yuan, Adrien Bousseau, Hao Pan, Lei Zhong, Changjian Li",
+    "venue": "ACM Conference on Human Factors in Computing Systems (CHI), 2026",
+    "year": 2026,
+    "image_source": "https://enigma-li.github.io/projects/dancingBox/icon.gif",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://yyyyyhc.github.io/DancingBox-project-page/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2603.17704"
+      },
+      {
+        "label": "Code & data",
+        "url": "https://github.com/YYYYYHC/DancingBox"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/p_VoEhKDpx8"
+      }
+    ],
+    "image": "assets/dancingbox.gif",
+    "award": "Best Paper Honorable Mention",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "motion-interaction",
+      "group": "",
+      "name": "DancingBox",
+      "venue": "CHI"
+    }
+  },
+  {
+    "title": "Interactive Anomaly Detection for Articulated Objects via Motion Anticipation",
+    "authors": "Ankan Bhunia, Changjian Li, Hakan Bilen",
+    "venue": "The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.",
+    "year": 2025,
+    "image_source": "https://enigma-li.github.io/projects/InterAD/IAD_icon.gif",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://groups.inf.ed.ac.uk/vico/research/interactiveAD/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://openreview.net/pdf?id=t22zHB6yQ0"
+      }
+    ],
+    "image": "assets/publications/ea9f2718679abe10.gif",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "3d-understanding",
+      "group": "",
+      "name": "Interactive Anomaly Detection",
+      "venue": "NeurIPS"
+    }
+  },
+  {
+    "title": "VQ-SGen: A Vector Quantized Stroke Representation for Creative Sketch Generation",
+    "authors": "Jiawei Wang, Zhiming Cui, Changjian Li",
+    "venue": "International Conference on Computer Vision (ICCV), 2025.",
+    "year": 2025,
+    "image_source": "https://enigma-li.github.io/projects/VQ-SGen/VQ-SGen_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/projects/VQ-SGen/VQ-SGen.html"
+      },
+      {
+        "label": "Paper",
+        "url": "http://arxiv.org/abs/2411.16446"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/JiaWei22/VQ-SGen"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=wchIqWURZJY"
+      }
+    ],
+    "image": "assets/publications/7452898ae1c1277a.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "sketch-modeling",
+      "group": "sketches",
+      "name": "VQ-SGen",
+      "venue": "ICCV",
+      "show_on_research": false
+    }
+  },
+  {
+    "title": "CanFields: Consolidating Diffeomorphic Flows for Non-Rigid 4D Interpolation from Arbitrary-Length Sequences",
+    "authors": "Miaowei Wang, Changjian Li, Amir Vaxman",
+    "venue": "International Conference on Computer Vision (ICCV), 2025.",
+    "year": 2025,
+    "image_source": "https://enigma-li.github.io/projects/canField/canfields_cion.gif",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://wangmiaowei.github.io/CanFields.github.io/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2406.18582"
+      }
+    ],
+    "image": "assets/publications/9b65adfe5e949288.gif",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "motion-interaction",
+      "group": "",
+      "name": "CanFields",
+      "venue": "ICCV"
+    }
+  },
+  {
+    "title": "CLIK-Diffusion: Clinical Knowledge-informed Diffusion Model for Tooth Alignment",
+    "authors": "Yulong Dou, Han Wu, Changjian Li, Chen Wang, Tong Yang, Min Zhu, Dinggang Shen, Zhiming Cui",
+    "venue": "Medical Image Analysis (MedIA), 2025.",
+    "year": 2025,
+    "image_source": "https://enigma-li.github.io/projects/TADiff/icon.png",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1361841525002932"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ShanghaiTech-IMPACT/CLIK-Diffusion"
+      }
+    ],
+    "image": "assets/publications/172ca688d16b37ff.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "interdisciplinary",
+      "group": "",
+      "name": "CLIK-Diffusion",
+      "venue": "Medical Image Analysis"
+    }
+  },
+  {
+    "title": "VesselSDF : Distance Field Priors for Vascular Network Reconstruction",
+    "authors": "Salvatore Esposito, Daniel Rebain, Arno Onken, Changjian Li, Oisin Mac Aodha",
+    "venue": "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025.",
+    "year": 2025,
+    "image_source": "https://enigma-li.github.io/projects/vessalSDF/icon2.png",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://www.arxiv.org/abs/2506.16556"
+      }
+    ],
+    "image": "assets/publications/d792f6a4eae4082b.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "interdisciplinary",
+      "group": "",
+      "name": "VesselSDF",
+      "venue": "MICCAI"
+    }
+  },
+  {
+    "title": "Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation",
+    "authors": "Lei Zhong, Chuan Guo, Yiming Xie, Jiawei Wang, Changjian Li",
+    "venue": "ACM Transaction on Graphics, 44(4), 2025, proceedings of SIGGRAPH 2025.",
+    "year": 2025,
+    "image_source": "https://enigma-li.github.io/projects/sketch2anim/icon_gif2.gif",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://zhongleilz.github.io/Sketch2Anim/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2504.19189"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/zhongleilz/Sketch2Animation"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/5xZacNOLMKM"
+      },
+      {
+        "label": "Press coverage",
+        "url": "https://s2025.siggraph.org/3d-generative-ai-transforms-how-we-create-design-interact-with-digital-content/"
+      }
+    ],
+    "image": "assets/sketch2anim.gif",
+    "award": "SIGGRAPH Technical Paper Highlight",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "motion-interaction",
+      "group": "",
+      "name": "Sketch2Anim",
+      "venue": "SIGGRAPH"
+    }
+  },
+  {
+    "title": "PCDreamer: Point Cloud Completion Through Multi-view Diffusion Priors",
+    "authors": "Guangshun Wei, Yuan Feng, Long Ma, Chen Wang, Yuanfeng Zhou, Changjian Li",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.",
+    "year": 2025,
+    "image_source": "https://enigma-li.github.io/projects/pcdreamer/icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://gsw-d.github.io/PCDreamer/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2411.19036"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/GSW-D/PCDreamerCode"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/os7IlKmoDqY"
+      }
+    ],
+    "image": "assets/pcdreamer.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "3d-understanding",
+      "group": "",
+      "name": "PCDreamer",
+      "venue": "CVPR"
+    }
+  },
+  {
+    "title": "CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections",
+    "authors": "Thomas Walker*, Salvatore Esposito*, Daniel Rebain, Amir Vaxman, Arno Onken, Changjian Li, Oisin Mac Aodha",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.",
+    "year": 2025,
+    "image_source": "https://enigma-li.github.io/projects/crosssdf/icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://iamsalvatore.io/cross_sdf/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2412.04120"
+      }
+    ],
+    "image": "assets/publications/132fd6d17ca57f0b.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "3d-understanding",
+      "group": "",
+      "name": "CrossSDF",
+      "venue": "CVPR"
+    }
+  },
+  {
+    "title": "Odd-One-Out: Anomaly Detection by Comparing with Neighbors",
+    "authors": "Ankan Bhunia, Changjian Li, Hakan Bilen",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.",
+    "year": 2025,
+    "image_source": "https://enigma-li.github.io/projects/oddOneOut/O3_icon.png",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2406.20099"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/VICO-UoE/OddOneOutAD"
+      },
+      {
+        "label": "Dataset",
+        "url": "https://huggingface.co/datasets/ankankbhunia/odd-one-out"
+      }
+    ],
+    "image": "assets/publications/d48922529d268bfc.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "3d-understanding",
+      "group": "",
+      "name": "Odd-One-Out",
+      "venue": "CVPR"
+    }
+  },
+  {
+    "title": "PoseTraj: Pose-Aware Trajectory Control in Video Diffusion",
+    "authors": "Longbin Ji, Lei Zhong, Pengfei Wei, Changjian Li",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.",
+    "year": 2025,
+    "image_source": "https://enigma-li.github.io/projects/poseTraj/icon.gif",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://robingg1.github.io/Pose-Traj/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2503.16068"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/robingg1/PoseTraj"
+      }
+    ],
+    "image": "assets/posetraj.gif",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "motion-interaction",
+      "group": "",
+      "name": "PoseTraj",
+      "venue": "CVPR"
+    }
+  },
+  {
+    "title": "DepthCues: Evaluating Monocular Depth Perception in Large Vision Models",
+    "authors": "Duolikun Danier, Mehmet Aygün, Changjian Li, Hakan Bilen, Oisin Mac Aodha",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.",
+    "year": 2025,
+    "image_source": "https://enigma-li.github.io/projects/depthCues/depthCues_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://danier97.github.io/depthcues/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2411.17385"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/danier97/depthcues"
+      },
+      {
+        "label": "Dataset",
+        "url": "https://huggingface.co/datasets/danier97/depthcues"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/5csFAeL1dCo"
+      }
+    ],
+    "image": "assets/publications/c9d1990a41623695.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "3d-understanding",
+      "group": "",
+      "name": "DepthCues",
+      "venue": "CVPR"
+    }
+  },
+  {
+    "title": "DiffCSG: Differentiable CSG via Rasterization",
+    "authors": "Haocheng Yuan, Adrien Bousseau, Hao Pan, Chengquan Zhang, Niloy Mitra, Changjian Li",
+    "venue": "ACM Transactions on Graphics (SIGGRAPH Asia Conference Proceedings)- 2024.",
+    "year": 2024,
+    "image_source": "https://enigma-li.github.io/projects/diffCSG/diffcsg_icon.jpg",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://yyyyyhc.github.io/DiffCSG/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/pdf/2409.01421"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=ebLWN578PvY"
+      }
+    ],
+    "image": "assets/publications/2b097deb300f0cfb.jpg",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "cad-modeling",
+      "group": "cad",
+      "name": "DiffCSG",
+      "venue": "SIGGRAPH Asia"
+    }
+  },
+  {
+    "title": "Geometry-Aware Attenuation Field Learning for Sparse-View CBCT Reconstruction",
+    "authors": "Zhentao Liu, Yu Fang, Changjian Li, Han Wu, Yuan Liu, Dinggang Shen, Zhiming Cui",
+    "venue": "IEEE Transactions on Medical Imaging (TMI), 2024.",
+    "year": 2024,
+    "image_source": "https://enigma-li.github.io/projects/CBCTRecon_GeoAware/icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://shanghaitech-impact.github.io/Geometry-Aware-Attenuation-Learning-for-Sparse-View-CBCT-Reconstruction/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2303.14739"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ShanghaiTech-IMPACT/Geometry-Aware-Attenuation-Learning-for-Sparse-View-CBCT-Reconstruction"
+      },
+      {
+        "label": "DOI",
+        "url": "http://dx.doi.org/10.1109/TMI.2024.3473970"
+      }
+    ],
+    "image": "assets/publications/221170787b8662a0.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "interdisciplinary",
+      "group": "",
+      "name": "Geometry-Aware CBCT Reconstruction",
+      "venue": "TMI"
+    }
+  },
+  {
+    "title": "CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs",
+    "authors": "Haocheng Yuan, Jing Xu, Hao Pan, Adrien Bousseau, Niloy Mitra, Changjian Li",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.",
+    "year": 2024,
+    "image_source": "https://enigma-li.github.io/projects/cadtalk/cadtalk_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/CADTalk/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2311.16703"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/YYYYYHC/CADTalk"
+      },
+      {
+        "label": "Dataset",
+        "url": "https://enigma-li.github.io/CADTalk/resources/cadtalk_dataset.html"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=83Fnvj2H0_g"
+      }
+    ],
+    "image": "assets/publications/d764429f49ba7401.png",
+    "award": "CVPR Highlight (top 10%)",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "cad-modeling",
+      "group": "cad",
+      "name": "CADTalk",
+      "venue": "CVPR"
+    }
+  },
+  {
+    "title": "ContextSeg: Sketch Semantic Segmentation by Querying the Context with Attention",
+    "authors": "Jiawei Wang, Changjian Li",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.",
+    "year": 2024,
+    "image_source": "https://enigma-li.github.io/projects/contextSeg/contextSeg_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/projects/contextSeg/contextSeg.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2311.16682"
+      },
+      {
+        "label": "Code & data",
+        "url": "https://github.com/JiaWei22/ContextSeg"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=k_yq-Y7YAVk"
+      }
+    ],
+    "image": "assets/publications/7ef9fbc3da09d109.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "sketch-modeling",
+      "group": "sketches",
+      "name": "ContextSeg",
+      "venue": "CVPR",
+      "show_on_research": false
+    }
+  },
+  {
+    "title": "Looking 3D: Anomaly Detection with 2D-3D Alignment",
+    "authors": "Ankan Bhunia, Changjian Li, Hakan Bilen",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.",
+    "year": 2024,
+    "image_source": "https://enigma-li.github.io/projects/look3D/look3D_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://groups.inf.ed.ac.uk/vico/research/Looking3D/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Bhunia_Looking_3D_Anomaly_Detection_with_2D-3D_Alignment_CVPR_2024_paper.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/VICO-UoE/Looking3D"
+      },
+      {
+        "label": "Dataset",
+        "url": "https://huggingface.co/datasets/ankankbhunia/brokenchairs180k/tree/main"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=45Hum8efMPg"
+      }
+    ],
+    "image": "assets/publications/3ce757f6f604493e.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "3d-understanding",
+      "group": "",
+      "name": "Looking 3D",
+      "venue": "CVPR"
+    }
+  },
+  {
+    "title": "iPUNet: Iterative Cross Field Guided Point Cloud Upsampling",
+    "authors": "Guangshun Wei, Hao Pan, Shaojie Zhuang, Yuanfeng Zhou, Changjian Li",
+    "venue": "IEEE Visualization and Computer Graphics (TVCG), 2023.",
+    "year": 2023,
+    "image_source": "https://enigma-li.github.io/projects/iPUNet/iPUNet_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/projects/iPUNet/iPUNet.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2310.09092"
+      },
+      {
+        "label": "Code & data",
+        "url": "https://github.com/GSW-D/iPUNet"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.ieeecomputersociety.org/10.1109/TVCG.2023.3324924"
+      }
+    ],
+    "image": "assets/publications/576026b5882e5cbf.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "3d-understanding",
+      "group": "",
+      "name": "iPUNet",
+      "venue": "TVCG"
+    }
+  },
+  {
+    "title": "SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields",
+    "authors": "Yu Fang, Lanzhuju Mei, Changjian Li, Yuan Liu, Wenping Wang, Zhiming Cui, Dinggang Shen",
+    "venue": "ArXiv Preprint, 2022.",
+    "year": 2022,
+    "image_source": "https://enigma-li.github.io/projects/CBCTRecons/snaf_icon.png",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2211.17048"
+      }
+    ],
+    "image": "assets/publications/5553bf76c202ee09.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "interdisciplinary",
+      "group": "",
+      "name": "SNAF",
+      "venue": "arXiv preprint"
+    }
+  },
+  {
+    "title": "ToothInpaintor: Tooth Inpainting from Partial 3D Dental Model and 2D Panoramic Image",
+    "authors": "Yuezhi Yang, Zhiming Cui, Changjian Li, Wenping Wang",
+    "venue": "ArXiv Preprint, 2022.",
+    "year": 2022,
+    "image_source": "https://enigma-li.github.io/projects/toothInpainter/toothInpaintor_icon.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2211.15502"
+      }
+    ],
+    "image": "assets/publications/2b6993e75e5da306.jpg",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "interdisciplinary",
+      "group": "",
+      "name": "ToothInpaintor",
+      "venue": "arXiv preprint"
+    }
+  },
+  {
+    "title": "CAD2Sketch: Generating Concept Sketches from CAD Sequences",
+    "authors": "Felix Hähnlein, Changjian Li, Niloy Mitra, Adrien Bousseau",
+    "venue": "ACM Transaction on Graphics, 41(6), 2022, proceedings of SIGGRAPH Asia 2022.",
+    "year": 2022,
+    "image_source": "https://enigma-li.github.io/projects/cad2sketch/CAD2Sketch_icon.jpeg",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://ns.inria.fr/d3/cad2sketch/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/cad2sketch/CAD2Sketch_SIGA_2022.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://gitlab.inria.fr/D3/cad2sketch"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1145/3550454.3555488"
+      }
+    ],
+    "image": "assets/publications/d2c601bbed440bd2.jpeg",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "cad-modeling",
+      "group": "surfaces",
+      "name": "CAD2Sketch",
+      "venue": "SIGGRAPH Asia",
+      "show_on_research": false
+    }
+  },
+  {
+    "title": "Free2CAD: Parsing Freehand Drawings into CAD Commands",
+    "authors": "Changjian Li, Hao Pan, Adrien Bousseau, Niloy Mitra",
+    "venue": "ACM Transaction on Graphics, 41(4), 2022, proceedings of SIGGRAPH 2022.",
+    "year": 2022,
+    "image_source": "https://enigma-li.github.io/projects/free2cad/free2cad_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "http://geometry.cs.ucl.ac.uk/projects/2022/free2cad/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/free2cad/Free2CAD_SIG_2022.pdf"
+      },
+      {
+        "label": "Code & data",
+        "url": "https://github.com/Enigma-li/Free2CAD"
+      },
+      {
+        "label": "Supplement",
+        "url": "https://enigma-li.github.io/projects/free2cad/Free2CAD_supl.pdf"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1145/3528223.3530133"
+      },
+      {
+        "label": "Award",
+        "url": "https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/"
+      }
+    ],
+    "image": "assets/publications/d3036684a4cafe6c.png",
+    "award": "Best Paper Honorable Mention",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "cad-modeling",
+      "group": "cad",
+      "name": "Free2CAD",
+      "venue": "SIGGRAPH"
+    }
+  },
+  {
+    "title": "VertNet: Accurate Vertebra Localization and Identification Network from CT Images",
+    "authors": "Zhiming Cui, Changjian Li, Lei Yang, Chunfeng Lian, Feng Shi, Wenping Wang, Dijia Wu, Dinggang Shen",
+    "venue": "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021.",
+    "year": 2021,
+    "image_source": "https://enigma-li.github.io/projects/vertNet/vertNet_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/projects/vertNet/VertNet.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/vertNet/VertNet_MICCAI_2021.pdf"
+      }
+    ],
+    "image": "assets/publications/7cb4625746107a09.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "interdisciplinary",
+      "group": "",
+      "name": "VertNet",
+      "venue": "MICCAI"
+    }
+  },
+  {
+    "title": "Structure-Driven Unsupervised Domain Adaptation for Cross-Modality Cardiac Segmentation",
+    "authors": "Zhiming Cui, Changjian Li, Zhixu Du, Nenglun Chen, Guodong Wei, Runnan Chen, Lei Yang, Wenping Wang",
+    "venue": "IEEE Transactions on Medical Imaging (TMI), 2021.",
+    "year": 2021,
+    "image_source": "https://enigma-li.github.io/projects/cardiactSeg/cardiacSeg_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/projects/cardiactSeg/cardiacSeg.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/cardiactSeg/src/CardiacSeg_DomainAdaptation_TMI_2021.pdf"
+      }
+    ],
+    "image": "assets/publications/5bde98e076d4298f.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "interdisciplinary",
+      "group": "",
+      "name": "Cross-Modality Cardiac Segmentation",
+      "venue": "TMI"
+    }
+  },
+  {
+    "title": "ScaffoldGAN: Synthesis of Scaffold Materials based on Generative Adversarial Networks",
+    "authors": "Hui Zhang, Lei Yang, Changjian Li, Bojian Wu, Wenping Wang",
+    "venue": "Computer-Aided Design (CAD), 2021.",
+    "year": 2021,
+    "image_source": "https://enigma-li.github.io/projects/scaffoldGAN/scaffoldGAN_icon.png",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/scaffoldGAN/ScaffoldGAN_CAD_2021.pdf"
+      }
+    ],
+    "image": "assets/publications/02ea79a2938b94de.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "interdisciplinary",
+      "group": "",
+      "name": "ScaffoldGAN",
+      "venue": "Computer-Aided Design"
+    }
+  },
+  {
+    "title": "Hierarchical Morphology-Guided Tooth Instance Segmentation from CBCT Images",
+    "authors": "Zhiming Cui*, Bojun Zhang*, Chunfeng Lian, Changjian Li#, Lei Yang, Min Zhu#, Wenping Wang, Dinggang Shen#",
+    "venue": "Information Processing in Medical Imaging (IPMI), 2021.",
+    "year": 2021,
+    "image_source": "https://enigma-li.github.io/projects/skeleToothSeg/skeleToothSeg_icon2.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/projects/skeleToothSeg/skele_tseg.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/skeleToothSeg/src/ToothSeg_IMPI_2021.pdf"
+      }
+    ],
+    "image": "assets/publications/96a6d25ade1da8b0.png",
+    "award": "Oral Presentation",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "interdisciplinary",
+      "group": "",
+      "name": "Morphology-Guided Tooth Segmentation",
+      "venue": "IPMI"
+    }
+  },
+  {
+    "title": "Point2Skeleton: Learning Skeletal Representations from Point Clouds",
+    "authors": "Cheng Lin, Changjian Li#, Yuan Liu, Nenglun Chen, Yi-King Choi, Wenping Wang#",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.",
+    "year": 2021,
+    "image_source": "https://enigma-li.github.io/projects/point2skeleton/p2s_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/projects/point2skeleton/point2skeleton.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_Point2Skeleton_Learning_Skeletal_Representations_from_Point_Clouds_CVPR_2021_paper.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/clinplayer/Point2Skeleton"
+      }
+    ],
+    "image": "assets/publications/9a91ddc2a7f6a4e6.png",
+    "award": "Oral Presentation · Best Paper Candidate",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "3d-understanding",
+      "group": "",
+      "name": "Point2Skeleton",
+      "venue": "CVPR"
+    }
+  },
+  {
+    "title": "TSegNet: an Efficient and Accurate Tooth Segmentation Network on 3D Dental Model",
+    "authors": "Zhiming Cui, Changjian Li, Nenglun Chen, Guodong Wei, Runnan Chen, Yuanfeng Zhou, Dinggang Shen, Wenping Wang",
+    "venue": "Medical Image Analysis (MedIA) , 2021",
+    "year": 2021,
+    "image_source": "https://enigma-li.github.io/projects/tsegNet/tseg_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/projects/tsegNet/TSegNet.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/tsegNet/paper/TSegNet_MIA_2021.pdf"
+      }
+    ],
+    "image": "assets/publications/822875530b4e8de1.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "interdisciplinary",
+      "group": "",
+      "name": "TSegNet",
+      "venue": "Medical Image Analysis"
+    }
+  },
+  {
+    "title": "RigidFusion: RGB-D Scene Reconstruction with Rigidly-moving Objects",
+    "authors": "Yushiang Wong, Changjian Li, Matthias Niessner, Niloy Mitra",
+    "venue": "Eurographics (EG) , 2021.",
+    "year": 2021,
+    "image_source": "https://enigma-li.github.io/projects/rigidFusion/rigidFusion_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "http://geometry.cs.ucl.ac.uk/projects/2021/rigidfusion/"
+      },
+      {
+        "label": "Paper",
+        "url": "http://geometry.cs.ucl.ac.uk/projects/2021/rigidfusion/paper_docs/rigidfusion_eg21.pdf"
+      }
+    ],
+    "image": "assets/publications/ea5c2cd5261ad6d4.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "3d-understanding",
+      "group": "",
+      "name": "RigidFusion",
+      "venue": "Eurographics"
+    }
+  },
+  {
+    "title": "SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform",
+    "authors": "Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang",
+    "venue": "IEEE Visualization and Computer Graphics (TVCG), 2020",
+    "year": 2020,
+    "image_source": "https://enigma-li.github.io/projects/segmat/segmat_icon2.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/projects/segmat/SEG-MAT.html"
+      },
+      {
+        "label": "arXiv Preprint",
+        "url": "https://arxiv.org/abs/2010.11488"
+      }
+    ],
+    "image": "assets/publications/07540a30ecbb87e7.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "3d-understanding",
+      "group": "",
+      "name": "SEG-MAT",
+      "venue": "TVCG"
+    }
+  },
+  {
+    "title": "Sketch2CAD: Sequential CAD Modeling by Sketching in Context",
+    "authors": "Changjian Li, Hao Pan, Adrien Bousseau, Niloy Mitra",
+    "venue": "ACM Trans. Graph., 39(6), 2020, proceedings of SIGGRAPH Asia 2020",
+    "year": 2020,
+    "image_source": "https://enigma-li.github.io/projects/sketch2cad/sketch2cad_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "http://geometry.cs.ucl.ac.uk/projects/2020/sketch2cad/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/sketch2cad/Sketch2CAD_SIGA_2020.pdf"
+      },
+      {
+        "label": "Code & data",
+        "url": "https://github.com/Enigma-li/Sketch2CAD"
+      },
+      {
+        "label": "Supplement",
+        "url": "https://enigma-li.github.io/projects/sketch2cad/Sketch2CAD_supl.pdf"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1145/3414685.3417807"
+      }
+    ],
+    "image": "assets/publications/0aafa28aa6233319.png",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "cad-modeling",
+      "group": "cad",
+      "name": "Sketch2CAD",
+      "venue": "SIGGRAPH Asia"
+    }
+  },
+  {
+    "title": "Floorplan-Jigsaw: Jointly Estimating Scene Layout and Aligning Partial Scans",
+    "authors": "Cheng Lin, Changjian Li, Wenping Wang",
+    "venue": "International Conference on Computer Vision (ICCV), 2019",
+    "year": 2019,
+    "image_source": "https://enigma-li.github.io/projects/indoorRecons/indoor_icon2.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/projects/indoorRecons/floorplanJigsaw.html"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/1812.06677"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/indoorRecons/src/paper/floorplanJigsaw_ICCV2019.pdf"
+      },
+      {
+        "label": "Supplement",
+        "url": "https://enigma-li.github.io/projects/indoorRecons/src/supl/floorplanJigsaw_ICCV2019_Supplemental_Material.pdf"
+      },
+      {
+        "label": "Press coverage",
+        "url": "https://www.rsipvision.com/ICCV2019-Friday/16/"
+      }
+    ],
+    "image": "assets/publications/b96499ffc4504165.png",
+    "award": "Featured in ICCV Daily 2019",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "3d-understanding",
+      "group": "",
+      "name": "Floorplan-Jigsaw",
+      "venue": "ICCV"
+    }
+  },
+  {
+    "title": "ToothNet: Automatic Tooth Instance Segmentation and Identification from Cone Beam CT Images",
+    "authors": "Zhiming Cui, Changjian Li, Wenping Wang",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.",
+    "year": 2019,
+    "image_source": "https://enigma-li.github.io/projects/toothSeg/toothSeg_icon.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://enigma-li.github.io/projects/toothSeg/toothNet.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/toothSeg/paper/toothNet_CVPR2019.pdf"
+      },
+      {
+        "label": "Press coverage",
+        "url": "https://www.computer.org/publications/tech-news/events/ieee-conference-on-computer-vision-and-pattern-recognition-2019-poster-sessions"
+      }
+    ],
+    "image": "assets/publications/dcb35ca78645a515.png",
+    "award": "Featured by IEEE Computer Society",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "interdisciplinary",
+      "group": "",
+      "name": "ToothNet",
+      "venue": "CVPR"
+    }
+  },
+  {
+    "title": "Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling",
+    "authors": "Changjian Li, Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang",
+    "venue": "ACM Trans. Graph., 37(6), 2018, proceedings of SIGGRAPH Asia 2018",
+    "year": 2018,
+    "image_source": "https://enigma-li.github.io/projects/sketchcnn/sketchcnn_icon2.png",
+    "links": [
+      {
+        "label": "Project",
+        "url": "http://haopan.github.io/sketchCNN.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/sketchcnn/SketchCNN_SIGA_2018.pdf"
+      },
+      {
+        "label": "Code & data",
+        "url": "https://github.com/Enigma-li/SketchCNN/"
+      },
+      {
+        "label": "Supplement",
+        "url": "https://enigma-li.github.io/projects/sketchcnn/supplemental.pdf"
+      },
+      {
+        "label": "DOI",
+        "url": "https://dl.acm.org/citation.cfm?id=3275051"
+      },
+      {
+        "label": "Cover image",
+        "url": "https://enigma-li.github.io/projects/sketchcnn/cover_image.png"
+      },
+      {
+        "label": "Press coverage",
+        "url": "https://sa2018.siggraph.org/images/press-releases/SA18%20Tech%20Papers%20PR%20-%2030%20Nov%2018%20-%20Making%20It%20Easier%20To%20Transform%202D%20Sketching%20Into%203D%20Models.pdf"
+      }
+    ],
+    "image": "assets/publications/34aad0b3060ffc9e.png",
+    "award": "TOG Cover Image · SIGGRAPH Asia Research Highlight",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "sketch-modeling",
+      "group": "surfaces",
+      "name": "Flow-Guided Surface Modeling",
+      "venue": "SIGGRAPH Asia"
+    }
+  },
+  {
+    "title": "BendSketch: Modeling Freeform Surfaces Through 2D Sketching",
+    "authors": "Changjian Li, Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang",
+    "venue": "ACM Trans. Graph., 36(4), 2017, proceedings of SIGGRAPH 2017",
+    "year": 2017,
+    "image_source": "https://enigma-li.github.io/projects/bendsketching/bendsketch_icon.jpg",
+    "links": [
+      {
+        "label": "Project",
+        "url": "http://haopan.github.io/bendsketch.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf"
+      },
+      {
+        "label": "Data",
+        "url": "https://enigma-li.github.io/projects/bendsketching/BendSketchData.zip"
+      }
+    ],
+    "image": "assets/publications/151592a8367904a1.jpg",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "sketch-modeling",
+      "group": "surfaces",
+      "name": "BendSketch",
+      "venue": "SIGGRAPH"
+    }
+  },
+  {
+    "title": "Flow Aligned Surfacing of Curve Networks",
+    "authors": "Hao Pan, Yang Liu, Alla Sheffer, Nicholas Vining, Changjian Li, Wenping Wang",
+    "venue": "ACM Trans. Graph., 36(4), 2015, proceedings of SIGGRAPH 2015",
+    "year": 2015,
+    "image_source": "https://enigma-li.github.io/projects/curvnet_surfacing/curvenet_surfacing_icon.jpg",
+    "links": [
+      {
+        "label": "Project",
+        "url": "http://haopan.github.io/curvenet_surfacing.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://enigma-li.github.io/projects/curvnet_surfacing/sketch_surface.pdf"
+      },
+      {
+        "label": "Data",
+        "url": "https://enigma-li.github.io/projects/curvnet_surfacing/curve_surfacing_curves_meshes.zip"
+      }
+    ],
+    "image": "assets/publications/2edd4737275e832c.jpg",
+    "source": "https://enigma-li.github.io/#publication",
+    "research": {
+      "area": "sketch-modeling",
+      "group": "surfaces",
+      "name": "Flow Aligned Surfacing",
+      "venue": "SIGGRAPH"
+    }
+  }
+]
