@@ -421,7 +421,11 @@ footer:not(.opening-footer){grid-template-columns:1fr;gap:26px}
 
 /* Compact programme links within the doctoral research introduction. */
 .phd-programmes{margin-top:28px}
-.phd-programmes h3{font-size:19px;line-height:1.4;letter-spacing:-.02em;margin-bottom:12px}
+.phd-programmes summary{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:6px 0;font-size:17px;line-height:1.5;font-weight:500;color:var(--green);cursor:pointer;list-style:none}
+.phd-programmes summary::-webkit-details-marker{display:none}
+.phd-programmes summary:focus-visible{outline:2px solid var(--green);outline-offset:5px}
+.phd-programmes[open] summary{margin-bottom:12px}
+.phd-programmes[open] .expand-mark{transform:rotate(45deg)}
 .phd-programmes ul{list-style:none;margin:0;padding:0}
 .phd-programmes li{border-top:1px solid var(--line)}
 .phd-programmes li>a{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-top:0;padding:13px 0}
@@ -431,4 +435,4 @@ footer:not(.opening-footer){grid-template-columns:1fr;gap:26px}
 .phd-programmes a:hover strong{color:var(--green)}
 .phd-programmes .programme-note{font-size:14px;line-height:1.6;margin-top:14px;color:var(--muted)}
 .join-layout>.contact-panel{align-self:start}
-@media(max-width:720px){.phd-programmes{margin-top:24px}.phd-programmes h3{font-size:18px}}
+@media(max-width:720px){.phd-programmes{margin-top:24px}.phd-programmes summary{font-size:16px}}
