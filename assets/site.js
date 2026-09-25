@@ -22,19 +22,14 @@ if(search){
  yearSelect.addEventListener('change',filter);search.addEventListener('input',filter);
 }
 
-// Motion can be paused independently of the research navigation links.
-const demoButton=document.querySelector('#demo-motion');
-if(demoButton){
- const demos=[...document.querySelectorAll('.opening-preview video')];
+// Respect reduced-motion preferences and pause demos in background tabs.
+const demos=[...document.querySelectorAll('.opening-preview video')];
+if(demos.length){
  const motionPreference=matchMedia('(prefers-reduced-motion: reduce)');
- let paused=motionPreference.matches;
  function syncMotion(){
-  demoButton.setAttribute('aria-pressed',String(paused));
-  demoButton.textContent=paused?'Play motion ▷':'Pause motion Ⅱ';
-  demos.forEach(video=>{video.muted=true;if(paused||document.hidden)video.pause();else video.play().catch(()=>{video.controls=true;});});
+  demos.forEach(video=>{video.muted=true;if(motionPreference.matches||document.hidden)video.pause();else video.play().catch(()=>{video.controls=true;});});
  }
- demoButton.addEventListener('click',()=>{paused=!paused;syncMotion();});
- motionPreference.addEventListener('change',()=>{paused=motionPreference.matches;syncMotion();});
+ motionPreference.addEventListener('change',syncMotion);
  document.addEventListener('visibilitychange',syncMotion);
  syncMotion();
 }
