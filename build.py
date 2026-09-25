@@ -42,6 +42,7 @@ for area in D['home']['featured']:
  home+=f'''<a class="opening-direction" href="research.html#{e(theme['id'])}"><div class="opening-preview">{media}</div><div class="opening-direction-label"><h2>{e(theme['title'])}</h2><span aria-hidden="true">↗</span></div><p class="opening-caption">{e(area['caption'])}</p></a>'''
 home+='</div></div></section>'
 opening_footer='''<footer class="opening-footer wrap"><p>Led by <a href="https://enigma-li.github.io/">Changjian Li</a><span class="footer-separator"> · </span><a href="https://informatics.ed.ac.uk/">School of Informatics</a></p></footer>'''
+
 research=page_title('What we explore','Creating across dimensions.','We connect geometry, learning and interaction to understand, create and animate the visual world.')
 research+='<nav class="research-index" aria-label="Research themes">'+''.join(f'<a href="#{e(area["id"])}">{e(area["short_title"])} <span aria-hidden="true">↘</span></a>' for area in D['research'])+'</nav>'
 for i,area in enumerate(D['research'],1):
@@ -74,7 +75,7 @@ for i,area in enumerate(D['research'],1):
   research+='</ul></details>'
  research+='</section>'
 research+='<p class="research-scope research-archive">These themes bring together work by Changjian Li and collaborators, including research before the lab was established in Edinburgh. <a href="publications.html">Browse all publications →</a></p>'
-research+='<section class="news-section"><div><p class="eyebrow">From the group</p><h2>Latest news</h2></div><div>'+''.join(f'<a class="news-row" href="{e(n["url"])}"><time datetime="{n["date"]}">{n["label"]}</time><span>{e(n["text"])}</span><span aria-hidden="true">↗</span></a>' for n in D['news'])+'</div></section>'+cta()
+research+=cta()
 years=sorted({p['year'] for p in P if p['year']>=2020},reverse=True)
 if any(p['year']<2020 for p in P): years.append('before-2020')
 def year_label(year): return 'Before 2020' if year=='before-2020' else str(year)
