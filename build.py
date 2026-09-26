@@ -48,7 +48,7 @@ research+='<nav class="research-index" aria-label="Research themes">'+''.join(f'
 for i,area in enumerate(D['research'],1):
  items=sorted([p for p in P if p['research']['area']==area['id'] and p['research'].get('show_on_research',True)],key=lambda p:p['year'],reverse=True)
  research+=''.join(f'<span id="{e(alias)}" aria-hidden="true"></span>' for alias in area.get('legacy_ids',[]))
- research+=f'<section id="{e(area["id"])}" class="research-area"><div class="area-heading"><span class="number">0{i}</span><h2>{e(area["title"])}</h2><div><p class="research-question">{e(area["question"])}</p><p>{e(area["description"])}</p></div></div>'
+ research+=f'<section id="{e(area["id"])}" class="research-area"><div class="area-heading"><span class="number">0{i}</span><h2>{e(area["title"])}</h2><div><p class="research-question">{e(area["question"])}</p></div></div>'
  selected=[]
  research+='<div class="project-grid" aria-label="Selected projects">'
  features={f['name']:f for f in area['featured']}
